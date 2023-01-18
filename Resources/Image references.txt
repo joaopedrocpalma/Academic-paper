@@ -1,0 +1,7 @@
+coyote time -https://gamemaker.io/en/blog/flynn-advanced-jump-mechanics
+double jump -https://nordicgame.com/double-jump-to-the-us-with-business-sweden/
+ragdoll - https://www.techspot.com/article/1960-video-game-physics/
+jumpheight - https://www.patreon.com/posts/28582857
+levolution - https://pappa.artstation.com/albums/2453890
+bulletspread - https://csspy.com/guides/how-to-improve-shooting-in-csgo/
+bulletspread2 - https://www.gtagaming.com/bullet-spread-recoil-fix-v1-1-f29635.html
